@@ -108,6 +108,9 @@ If you prefer not to use either of the aforementioned dependency managers, you c
 
 ---
 
+### Project
+PunjiProjectStartfyinformationManagerccProjectEnd
+
 ## Usage
 
 ### Quick Start
